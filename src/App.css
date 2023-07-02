@@ -1,0 +1,7 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+#react-audio-player input{
+  display: none;
+}
